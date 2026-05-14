@@ -1,0 +1,7 @@
+# Ignore log files
+*.log
+
+# Ignore folder locations
+locations/
+
+

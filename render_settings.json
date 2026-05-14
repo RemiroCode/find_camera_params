@@ -1,0 +1,1 @@
+{"mdt_path": "./mdt.tif", "plane_size": 4, "displ_str": 32.768, "orto_path": "./orto.png", "focal_length": 28, "sensor_width": 36, "camera_height": 1.0269, "rotation_euler_x": 65, "rotation_euler_y": 8, "rotation_euler_z": 67, "spp": 8, "out_path": "render"}
